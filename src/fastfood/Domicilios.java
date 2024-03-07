@@ -9,5 +9,5 @@ package fastfood;
  * @author eliasvidal
  */
 public class Domicilios {
-    
+    //THIS IS MAIN CLASS
 }
