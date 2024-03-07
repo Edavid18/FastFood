@@ -4,6 +4,8 @@
  */
 package fastfood;
 
+import java.util.ArrayList;
+
 /**
  *
  * @author eliasvidal
